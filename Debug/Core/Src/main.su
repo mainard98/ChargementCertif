@@ -1,0 +1,9 @@
+crc-ccitt.h:73:21:crc_init	4	static
+crc-ccitt.h:96:21:crc_finalize	16	static
+main.c:66:5:main	48	static
+main.c:170:6:SystemClock_Config	104	static
+main.c:212:13:MX_USART3_UART_Init	8	static
+main.c:260:13:MX_GPIO_Init	40	static
+main.c:284:7:str_sub	32	static
+main.c:309:5:hex2dec	24	static
+main.c:320:6:Error_Handler	4	static,ignoring_inline_asm

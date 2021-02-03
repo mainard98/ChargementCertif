@@ -1,0 +1,14 @@
+vigik_uart_mngt.c:14:13:store_char	24	static
+vigik_uart_mngt.c:28:6:Ringbuf_init	4	static
+vigik_uart_mngt.c:40:16:get_rx_buffer	4	static
+vigik_uart_mngt.c:44:5:Look_for	32	static
+vigik_uart_mngt.c:71:5:Uart_read	16	static
+vigik_uart_mngt.c:86:6:Uart_write	24	static
+vigik_uart_mngt.c:104:5:IsDataAvailable	4	static
+vigik_uart_mngt.c:109:6:Uart_sendDataArray	24	static
+vigik_uart_mngt.c:115:6:Uart_printbase	64	static
+vigik_uart_mngt.c:135:5:Uart_peek	4	static
+vigik_uart_mngt.c:147:5:Copy_upto	32	static
+vigik_uart_mngt.c:193:5:Get_after	32	static
+vigik_uart_mngt.c:203:5:Wait_for	24	static
+vigik_uart_mngt.c:229:6:Uart_isr	32	static
